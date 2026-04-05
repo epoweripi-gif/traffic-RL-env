@@ -15,4 +15,6 @@ pip install gymnasium stable-baselines3
 python traffic_env_v2.py
 
 # traffic-RL-env
-using this RL environment an AI agent can learn to manage traffic signals on 2x2 grid of road intersections. this is a simulated situation of course but this idea can be deployed on a whole city by using multi agent RL which will be much more complex than this but this is the building block for it.
+- using this RL environment an AI agent can learn to manage traffic signals on 2x2 grid of road intersections.
+- this is a simulated situation of course but this idea can be deployed on a whole city by using multi agent RL which will be much more complex than this but this is   the building block for it.
+- i have added ipynb file as well to visualize the first 10 steps of an episode on a kaggle jupyter notebook.
